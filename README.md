@@ -1,5 +1,5 @@
 # ThisIsNotRat
-[![HitCount](https://hits.dwyl.com/realb3y/RealBey/ThisIsNotRat.svg?style=flat-square)](http://hits.dwyl.com/07iamravi/ThisIsNotRat)
+[![HitCount](https://hits.dwyl.com/07iamravi/ThisIsNotRat.svg?style=flat-square)](http://hits.dwyl.com/07iamravi/ThisIsNotRat)
 
 
 <p align="center">
